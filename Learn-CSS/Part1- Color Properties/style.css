@@ -1,0 +1,22 @@
+span {
+    color: red;
+  }
+  div.opaPr {
+    position: relative;
+  }
+
+  p.below {
+    background: #ccff00;
+    height: 100px;
+    width: 100px;
+  }
+
+  p.above {
+    background: #cc0000;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 100px;
+    opacity: 0.6;
+  }
